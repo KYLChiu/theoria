@@ -38,7 +38,8 @@ math = [
     "sympy>=1.13",
 ]
 stats = [
-    "statsmodels",
+    "statsmodels>=0.14.4",
+    "scikit-learn>=1.7.2",
 ]
 finance = [
     "yfinance>=0.2.44",
