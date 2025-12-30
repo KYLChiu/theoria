@@ -49,6 +49,7 @@ visualisation = [
     "seaborn>=0.13",
 ]
 dev = [
+    "sortedcontainers>=2.4.0",
     "tqdm>=4.66",
     "ruff>=0.7",
     "pytest>=8.3",
